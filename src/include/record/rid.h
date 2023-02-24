@@ -9,11 +9,11 @@ public:
         this->slot_ = slot;
     }
 
-    int BlockNumber() {
+    int blknum() {
         return blknum_;
     }
 
-    int Slot() {
+    int slot() {
         return slot_;
     }
 

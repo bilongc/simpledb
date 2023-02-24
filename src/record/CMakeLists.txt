@@ -1,7 +1,7 @@
 add_library(
     simpledb_record
     OBJECT
-    RID.cpp
+    rid.cpp
 )
 
 set(ALL_OBJECT_FILES
